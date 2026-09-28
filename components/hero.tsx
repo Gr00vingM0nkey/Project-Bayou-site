@@ -49,7 +49,7 @@ export function Hero() {
         className="pointer-events-none absolute inset-x-0 bottom-0 z-20 w-full select-none object-cover"
       />
 
-      <div className="relative z-50 mx-auto flex w-full max-w-[1400px] flex-col gap-6 px-5 pt-80 md:px-10">
+      <div className="relative z-50 mx-auto flex w-full max-w-[1400px] flex-col gap-6 px-5 pt-110 md:px-10">
         <p className="text-sm font-semibold uppercase tracking-[0.35em] text-white/90 drop-shadow-md md:text-base">
           What we do
         </p>
